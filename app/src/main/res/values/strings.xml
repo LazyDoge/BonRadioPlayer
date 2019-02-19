@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name_en">Bon Radio Player</string>
+    <string name="app_name">Радио БОН</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="notification_channel_name">Player controls</string>
+
+    <string name="play">Play</string>
+    <string name="pause">Pause</string>
+    <string name="stop">Stop</string>
+
+    <string name="previous">Previous</string>
+    <string name="next">Next</string>
+    <string name="title">title</string>
+</resources>
